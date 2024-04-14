@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <h1 className="text-center py-6 text-3xl font-sans uppercase font-bold">
-        Thời Khoá Biểu
+        Thời Khoá Biểu hhgfhgfhgfhgfhgf
       </h1>
       <main className="pe-6 py-2">
         <div className="relative overflow-x-auto shadow-md sm:rounded-lg bg-white">
