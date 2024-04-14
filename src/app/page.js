@@ -16,7 +16,7 @@ export default function Home() {
     <>
       <h1 className="text-center py-6 text-3xl font-sans uppercase font-bold">
         Thời Khoá Biểu
-
+fdsfdsfdsfsdfds
 
         dfsdfdsfdsfdsfdsfdsfds
       </h1>
