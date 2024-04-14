@@ -17,6 +17,7 @@ export default function Home() {
       <h1 className="text-center py-6 text-3xl font-sans uppercase font-bold">
         Thời Khoá Biểu
       </h1>
+      <h2>test</h2>
       <main className="pe-6 py-2">
         <div className="relative overflow-x-auto shadow-md sm:rounded-lg bg-white">
           <table className="w-full text-sm text-left rtl:text-right text-gray-500">
